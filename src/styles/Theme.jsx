@@ -35,6 +35,7 @@ export const theme = {
     gray900: "#141518",
     primary: "#F83600",
     secondary: "#FE8C00",
+    background: "#f2f2f2",
   },
   fontFamily: {
     heading: ["IBM Plex Sans", "sans-serif"].join(","),
